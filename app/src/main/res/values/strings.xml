@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Olympia tour</string>
+    <string name="title_item_detail">Olympia tour</string>
+    <string name="txtStateCapital">Olympia, the capital of Washington state, is at the southern end of Puget Sound. The sprawling Washington State Capitol Campus, beside Capitol Lake, includes the stately Legislative Building and the 1909 Governor’s Mansion.</string>
+    <string name="txtBoardWalk">Nisqually National Wildlife in Olympia, is located where the freshwater of the Nisqually River flows into Puget Sound. The mosaic of different habitats found on the River Delta provide optimal conditions for diverse and abundant wildlife.</string>
+    <string name="txtOlyFarmerMarket">The Market is open four days a week. You can expect to find fresh produce from local farms, flowers, meat, seafood, baked goods, and much more.</string>
+    <string name="txtDescription">Olympia Tour Image</string>
+    <string name="txtInfo">Join us for our first summer tour of exciting and interesting things to see in Olympia, WA. The first tour starts on July 15.</string>
+    <string name="txtTitle">Summer - Olympia Tour</string>
+    <string name="btnRequestMoreInfo">Contact us for more information</string>
+</resources>
